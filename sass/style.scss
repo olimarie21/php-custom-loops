@@ -1,0 +1,38 @@
+/*
+Theme Name: a8oliviaunderdah
+Author: Olivia Underdah
+Description: Theme to practice custom loop
+Version: 0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: a8oliviaunderdah
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/*
+Table of Contents
+1. Variables
+2. Reset
+3. Typography
+3. Navigation
+4. Media
+5. Accessibility
+6. Layout
+*/
+
+// Variables
+@import "partials/variables/variables";
+
+/* 1. Reset =========================== */
+@import "partials/reset";
+/* 2. Typography ====================== */
+@import "partials/typography";
+/* 3. Navigation ====================== */
+@import "partials/navigation";
+/* 4. Media =========================== */
+@import "partials/media";
+/* 5. Accessibility =================== */
+@import "partials/accessibility";
+/* 6. Layout ========================== */
+@import "partials/layout";
